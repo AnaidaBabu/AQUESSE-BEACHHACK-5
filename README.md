@@ -8,4 +8,4 @@ BEACH HACK 5 *PROBLEM STATEMENT To empower and promote coastal/marine tourism th
 
 *ASSUMPTION Here we look forward this project to collaborate with KTDC,which helps us to make tourists more reliable and make the implementation more easier and efficient.
 
-*TEXT STACK PHP MySQL Database HTML CSS BOOTSTRAP WORDPRESS *ANY PAID/OPEN SOURCE SOFTWARE USED & LICENSE INFO LICENSE INFO-GPL(GENERAL PUBLIC LICENSE)
+*TEXT STACK PHP MySQL Database HTML CSS BOOTSTRAP WORDPRESS *ANY PAID/OPEN SOURCE SOFTWARE USED & LICENSE INFO LICENSE INFO-GPL(GENERAL PUBLIC LICENSE)  THEXTRUDER BETA-FINAL-BH5.pptx
